@@ -1,0 +1,51 @@
+TransactionID,Date,Store,CustomerID,Age,Gender,Nationality,MaritalStatus,IncomeBracket,PaymentMethod,Category,SubCategory,Quantity,UnitPrice,TotalAmount
+T1000,2025-09-07 11:00:00,Al Barsha,C2092,39,Male,Bangladesh,Married,5k-10k AED,Card,Fresh Produce,Herbs,5,47.29,236.45
+T1001,2025-09-23 18:00:00,Al Barsha,C2087,27,Other,Bangladesh,Divorced,<5k AED,Gift Card,Grocery,Rice,5,12.86,64.3
+T1002,2025-09-03 13:00:00,Al Barsha,C2052,28,Male,India,Divorced,<5k AED,Card,Beauty,Haircare,5,4.02,20.1
+T1003,2025-09-22 20:00:00,Sharjah City,C2088,28,Female,India,Married,10k-20k AED,Cash,Fresh Produce,Herbs,1,277.96,277.96
+T1004,2025-09-10 19:00:00,Deira,C2187,26,Female,Pakistan,Single,5k-10k AED,Mobile Wallet,Grocery,Rice,3,507.12,1521.36
+T1005,2025-09-25 10:00:00,Deira,C2050,16,Male,Pakistan,Married,10k-20k AED,Cash,Beauty,Makeup,5,56.51,282.55
+T1006,2025-09-04 16:00:00,Sharjah City,C2059,16,Male,Philippines,Single,10k-20k AED,Mobile Wallet,Fashion,Men Clothing,2,18.27,36.54
+T1007,2025-09-28 19:00:00,Al Barsha,C2198,45,Male,Bangladesh,Single,10k-20k AED,Cash,Fresh Produce,Fruits,4,40.08,160.32
+T1008,2025-09-14 08:00:00,Deira,C2163,39,Female,Philippines,Divorced,10k-20k AED,Card,Electronics,Power Bank,2,13.7,27.4
+T1009,2025-09-18 17:00:00,Mall of the Emirates,C2043,26,Other,Pakistan,Divorced,<5k AED,Card,Fashion,Kids Wear,2,209.22,418.44
+T1010,2025-09-14 15:00:00,Mall of the Emirates,C2189,23,Male,Philippines,Married,10k-20k AED,Card,Beauty,Makeup,2,27.17,54.34
+T1011,2025-09-25 19:00:00,Al Barsha,C2187,18,Male,Syria,Single,10k-20k AED,Gift Card,Electronics,Earphones,4,79.63,318.52
+T1012,2025-09-13 08:00:00,Mall of the Emirates,C2088,39,Other,Bangladesh,Married,5k-10k AED,Gift Card,Home & Living,Cookware,3,19.07,57.21
+T1013,2025-09-05 17:00:00,Deira,C2040,42,Male,Pakistan,Single,5k-10k AED,Mobile Wallet,Beauty,Haircare,4,67.5,270.0
+T1014,2025-09-12 09:00:00,Deira,C2032,32,Other,Philippines,Married,5k-10k AED,Card,Fashion,Women Clothing,5,16.37,81.85
+T1015,2025-09-22 18:00:00,Al Barsha,C2034,29,Male,Syria,Single,5k-10k AED,Card,Beauty,Makeup,1,9.29,9.29
+T1016,2025-09-14 10:00:00,Sharjah City,C2000,24,Male,Philippines,Married,20k+ AED,Mobile Wallet,Fashion,Men Clothing,3,121.07,363.21
+T1017,2025-09-26 17:00:00,Al Barsha,C2123,41,Other,Egypt,Married,10k-20k AED,Cash,Electronics,Power Bank,5,7.97,39.85
+T1018,2025-09-07 08:00:00,Mall of the Emirates,C2051,51,Female,UAE,Divorced,10k-20k AED,Card,Fashion,Men Clothing,5,55.22,276.1
+T1019,2025-09-15 18:00:00,Jumeirah,C2028,39,Other,Egypt,Divorced,5k-10k AED,Card,Electronics,Earphones,4,39.49,157.96
+T1020,2025-09-22 19:00:00,Sharjah City,C2065,19,Other,UAE,Divorced,10k-20k AED,Gift Card,Grocery,Rice,5,33.48,167.4
+T1021,2025-09-12 19:00:00,Jumeirah,C2083,42,Female,India,Single,5k-10k AED,Cash,Grocery,Olives,3,93.31,279.93
+T1022,2025-09-25 14:00:00,Deira,C2189,31,Male,Syria,Divorced,5k-10k AED,Card,Beauty,Makeup,1,17.05,17.05
+T1023,2025-09-03 14:00:00,Sharjah City,C2197,30,Male,Pakistan,Divorced,20k+ AED,Card,Fashion,Kids Wear,3,98.48,295.44
+T1024,2025-09-01 10:00:00,Mall of the Emirates,C2171,27,Other,Pakistan,Married,10k-20k AED,Gift Card,Fashion,Women Clothing,1,17.27,17.27
+T1025,2025-09-17 17:00:00,Al Barsha,C2051,28,Male,India,Single,10k-20k AED,Cash,Fashion,Kids Wear,4,49.86,199.44
+T1026,2025-09-17 12:00:00,Mall of the Emirates,C2112,33,Other,India,Single,<5k AED,Cash,Fresh Produce,Fruits,5,5.67,28.35
+T1027,2025-09-30 09:00:00,Al Barsha,C2052,37,Female,UAE,Divorced,5k-10k AED,Mobile Wallet,Beauty,Makeup,4,222.85,891.4
+T1028,2025-09-23 11:00:00,Mall of the Emirates,C2182,26,Other,India,Divorced,20k+ AED,Card,Home & Living,Beddings,5,29.67,148.35
+T1029,2025-09-22 18:00:00,Mall of the Emirates,C2143,41,Male,UAE,Divorced,20k+ AED,Mobile Wallet,Home & Living,Beddings,1,82.08,82.08
+T1030,2025-09-06 20:00:00,Deira,C2002,51,Other,UAE,Divorced,<5k AED,Cash,Home & Living,Cookware,3,151.81,455.43
+T1031,2025-09-19 11:00:00,Jumeirah,C2095,42,Male,India,Single,5k-10k AED,Gift Card,Fresh Produce,Vegetables,4,119.09,476.36
+T1032,2025-09-07 09:00:00,Mall of the Emirates,C2103,30,Female,Philippines,Single,<5k AED,Gift Card,Fashion,Men Clothing,1,14.25,14.25
+T1033,2025-09-30 17:00:00,Al Barsha,C2098,25,Other,Egypt,Single,<5k AED,Card,Fresh Produce,Vegetables,4,222.33,889.32
+T1034,2025-09-20 19:00:00,Deira,C2112,30,Female,India,Married,<5k AED,Card,Home & Living,Towels,4,35.01,140.04
+T1035,2025-09-27 14:00:00,Deira,C2008,31,Female,Syria,Married,10k-20k AED,Gift Card,Beauty,Haircare,1,18.01,18.01
+T1036,2025-09-16 10:00:00,Sharjah City,C2147,36,Other,Bangladesh,Married,5k-10k AED,Card,Electronics,Earphones,4,358.91,1435.64
+T1037,2025-09-04 13:00:00,Al Barsha,C2103,37,Other,Bangladesh,Divorced,<5k AED,Mobile Wallet,Grocery,Rice,4,13.08,52.32
+T1038,2025-09-25 10:00:00,Sharjah City,C2152,52,Female,Egypt,Divorced,5k-10k AED,Cash,Fashion,Men Clothing,5,67.59,337.95
+T1039,2025-09-04 08:00:00,Mall of the Emirates,C2141,38,Male,Egypt,Single,5k-10k AED,Gift Card,Grocery,Olives,5,17.33,86.65
+T1040,2025-09-08 14:00:00,Mall of the Emirates,C2194,42,Other,Egypt,Single,<5k AED,Gift Card,Beauty,Haircare,4,216.93,867.72
+T1041,2025-09-23 13:00:00,Sharjah City,C2157,52,Other,Pakistan,Married,5k-10k AED,Mobile Wallet,Fresh Produce,Vegetables,5,20.88,104.4
+T1042,2025-09-27 18:00:00,Deira,C2020,61,Male,Bangladesh,Divorced,10k-20k AED,Gift Card,Electronics,Earphones,1,18.25,18.25
+T1043,2025-09-16 10:00:00,Al Barsha,C2003,34,Female,Egypt,Divorced,<5k AED,Cash,Fashion,Men Clothing,3,2.72,8.16
+T1044,2025-09-12 19:00:00,Sharjah City,C2157,32,Female,India,Married,<5k AED,Card,Electronics,Power Bank,5,22.2,111.0
+T1045,2025-09-20 20:00:00,Mall of the Emirates,C2159,41,Female,Syria,Divorced,10k-20k AED,Cash,Beauty,Haircare,1,10.04,10.04
+T1046,2025-09-25 17:00:00,Jumeirah,C2053,40,Other,UAE,Single,10k-20k AED,Cash,Grocery,Olives,2,30.05,60.1
+T1047,2025-09-27 17:00:00,Sharjah City,C2129,51,Male,Pakistan,Married,5k-10k AED,Mobile Wallet,Fresh Produce,Herbs,2,6.74,13.48
+T1048,2025-09-09 18:00:00,Jumeirah,C2175,16,Other,Philippines,Married,<5k AED,Cash,Beauty,Makeup,2,11.34,22.68
+T1049,2025-09-24 20:00:00,Jumeirah,C2059,38,Male,UAE,Married,5k-10k AED,Mobile Wallet,Fresh Produce,Herbs,2,50.08,100.16
